@@ -1,6 +1,6 @@
 {
     "product": "ILMATEMATICO",
-    "generated_at": "2026-06-21 23:27:04",
+    "generated_at": "2026-06-21 23:28:15",
     "licenses": [
         {
             "customer": "prova",
@@ -10,8 +10,17 @@
             "expiry": "Permanente",
             "status": "Disattivata",
             "notes": ""
+        },
+        {
+            "customer": "zucchigay",
+            "hwid": "63382B6B9331520A",
+            "license_key": "ILM-AE5C-FC11-27AB-4FBD",
+            "plan": "All Brokers",
+            "expiry": "Permanente",
+            "status": "Attiva",
+            "notes": ""
         }
     ],
-    "signature": "8476d9590d17fe56083a2e943fe8897b53fe17f9934ed0d13233f20c3fdaa810",
-    "signature_legacy": "b13e2b52bb70758a531f7d04862302e38035662250afe3103506242493847a8f"
+    "signature": "233daa6709f1a6e3771323bd5266783546b87911493a1d7658ced7d9894f6262",
+    "signature_legacy": "e5e0035ed8e5e4f5f9e497c593613490911e699a10e6f79122170674fe5016b8"
 }
