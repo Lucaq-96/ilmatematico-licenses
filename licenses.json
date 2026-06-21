@@ -1,35 +1,7 @@
 {
     "product": "ILMATEMATICO",
-    "generated_at": "2026-06-21 23:11:22",
-    "licenses": [
-        {
-            "customer": "MIA",
-            "hwid": "34668EEC832380FE",
-            "license_key": "ILM-0E84-3986-067E-4F7D",
-            "plan": "All Brokers",
-            "expiry": "Permanente",
-            "status": "Disattivata",
-            "notes": ""
-        },
-        {
-            "customer": "zucchi",
-            "hwid": "63382B6B9331520A",
-            "license_key": "ILM-1B41-861D-18B8-4775",
-            "plan": "All Brokers",
-            "expiry": "Permanente",
-            "status": "Attiva",
-            "notes": ""
-        },
-        {
-            "customer": "mia prova 2",
-            "hwid": "34668EEC832380FE",
-            "license_key": "ILM-4458-6A68-AAE6-4A2B",
-            "plan": "All Brokers",
-            "expiry": "Permanente",
-            "status": "Attiva",
-            "notes": ""
-        }
-    ],
-    "signature": "f44ed55001d1aa0422eff964c665ab7195108901c74f3018b6219e35574baa6f",
-    "signature_legacy": "1e981e6179cc29a66ce1510ff47ecb730c45510fd5f3b4cacc22fd94ce5a2521"
+    "generated_at": "2026-06-21 23:23:32",
+    "licenses": [],
+    "signature": "b09455992a62410e3e541e7e878eccaa97a58e4d94aacbb6241d2a5f7801b86c",
+    "signature_legacy": "b09455992a62410e3e541e7e878eccaa97a58e4d94aacbb6241d2a5f7801b86c"
 }
