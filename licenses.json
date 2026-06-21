@@ -1,6 +1,6 @@
 {
     "product": "ILMATEMATICO",
-    "generated_at": "2026-06-21 18:02:43",
+    "generated_at": "2026-06-21 18:14:28",
     "licenses": [
         {
             "customer": "zucchi",
@@ -8,7 +8,7 @@
             "license_key": "ILM-1B41-861D-18B8-4775",
             "plan": "All Brokers",
             "expiry": "Permanente",
-            "status": "Attiva",
+            "status": "Bloccata",
             "notes": ""
         },
         {
@@ -17,9 +17,9 @@
             "license_key": "ILM-0E84-3986-067E-4F7D",
             "plan": "All Brokers",
             "expiry": "Permanente",
-            "status": "Bloccata",
+            "status": "Attiva",
             "notes": ""
         }
     ],
-    "signature": "671d0932833a801a6c8099f3a459aa14412512bf6c50c806f4107e3fd7342500"
+    "signature": "669a9faa19870737ef648ac1737d45f8cd81a16d15e04a95981018d694b14657"
 }
