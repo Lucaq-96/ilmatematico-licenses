@@ -1,6 +1,6 @@
 {
     "product": "ILMATEMATICO",
-    "generated_at": "2026-06-21 23:26:08",
+    "generated_at": "2026-06-21 23:27:04",
     "licenses": [
         {
             "customer": "prova",
@@ -8,10 +8,10 @@
             "license_key": "ILM-859E-3362-ED42-4405",
             "plan": "All Brokers",
             "expiry": "Permanente",
-            "status": "Attiva",
+            "status": "Disattivata",
             "notes": ""
         }
     ],
-    "signature": "cb88f6539d70b93e5764463a3196a67ce7949a52d818381111b2eaabf2a19e82",
-    "signature_legacy": "568e4cb1c289a73dbc61779cb3d1cb4795934f350413c3bd8e452d46fb31caea"
+    "signature": "8476d9590d17fe56083a2e943fe8897b53fe17f9934ed0d13233f20c3fdaa810",
+    "signature_legacy": "b13e2b52bb70758a531f7d04862302e38035662250afe3103506242493847a8f"
 }
