@@ -1,7 +1,16 @@
 {
     "product": "ILMATEMATICO",
-    "generated_at": "2026-06-21 17:57:28",
+    "generated_at": "2026-06-21 17:58:20",
     "licenses": [
+        {
+            "customer": "zucchi",
+            "hwid": "63382B6B9331520A",
+            "license_key": "ILM-1B41-861D-18B8-4775",
+            "plan": "All Brokers",
+            "expiry": "Permanente",
+            "status": "Attiva",
+            "notes": ""
+        },
         {
             "customer": "MIA",
             "hwid": "34668EEC832380FE",
@@ -12,5 +21,5 @@
             "notes": ""
         }
     ],
-    "signature": "a1933082472d838acc9eca6bb927b3b451cd533756cc503526ba567057be0ffc"
+    "signature": "acbbe1cb57b5cbd019a35c525f76da7950f1eaa5eb53fc891ef5060945762e8e"
 }
