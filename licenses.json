@@ -1,16 +1,6 @@
 {
     "product": "ILMATEMATICO",
-    "generated_at": "2026-06-21 15:20:34",
-    "licenses": [
-        {
-            "customer": "luca test",
-            "hwid": "34668EEC832380FE",
-            "license_key": "ILM-F5D8-C9E2-4299-45D3",
-            "plan": "All Brokers",
-            "expiry": "Permanente",
-            "status": "Attiva",
-            "notes": ""
-        }
-    ],
-    "signature": "46e63662e85112b88eb1d771c3efa91b61e4676ccc0c152553e8ccfadfb6da5e"
+    "generated_at": "2026-06-21 16:22:19",
+    "licenses": [],
+    "signature": "b09455992a62410e3e541e7e878eccaa97a58e4d94aacbb6241d2a5f7801b86c"
 }
