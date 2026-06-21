@@ -1,6 +1,16 @@
 {
     "product": "ILMATEMATICO",
-    "generated_at": "2026-06-21 17:39:39",
-    "licenses": [],
-    "signature": "b09455992a62410e3e541e7e878eccaa97a58e4d94aacbb6241d2a5f7801b86c"
+    "generated_at": "2026-06-21 17:45:27",
+    "licenses": [
+        {
+            "customer": "zucchi",
+            "hwid": "63382B6B9331520A",
+            "license_key": "ILM-0D57-4297-1761-47D2",
+            "plan": "FPG Edition",
+            "expiry": "Permanente",
+            "status": "Attiva",
+            "notes": ""
+        }
+    ],
+    "signature": "edf2a56218a91ca653620cf7742149280b462b87a81868a5529926ab203d4471"
 }
