@@ -1,9 +1,9 @@
 {
     "product": "ILMATEMATICO",
-    "generated_at": "2026-06-21 23:28:28",
+    "generated_at": "2026-06-21 23:41:10",
     "licenses": [
         {
-            "customer": "prova",
+            "customer": "MIA",
             "hwid": "34668EEC832380FE",
             "license_key": "ILM-859E-3362-ED42-4405",
             "plan": "All Brokers",
@@ -21,6 +21,6 @@
             "notes": ""
         }
     ],
-    "signature": "1908875894f2e55038460927d6111bbe68b4c702fd1e0f9f86f3206711d7d5eb",
-    "signature_legacy": "a5b87e78ad10600e80b38f448bcfdcf6759d5a65d0caede3d19c1e27ed39105b"
+    "signature": "1ea1ce7e5827d9ca6bf9abda5744d1626444d8675de6c0b996295c2ca2e34bfb",
+    "signature_legacy": "04a5c0a7b57bea1cd9fae82a37603bd43c83f7abe8bfb5a413a10706d43c8030"
 }
