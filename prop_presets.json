@@ -1,5 +1,191 @@
 {
-  "product": "ILMATEMATICO",
-  "generated_at": "",
-  "tree": {}
+    "product": "ILMATEMATICO",
+    "generated_at": "2026-06-22 19:15:42",
+    "presets": [
+        {
+            "prop": "funding pips",
+            "account_size": 321,
+            "phase_type": "421",
+            "phase": "4312",
+            "target_percent": "r31",
+            "daily_dd_percent": "r132",
+            "max_dd_percent": 2341.0,
+            "profit_split": 12.0,
+            "multiplier": 1.0,
+            "tipo_fase": "421",
+            "name": "funding pips 321 421 4312"
+        }
+    ],
+    "tree": {
+        "funding pips": {
+            "monofase": {
+                "50k": {
+                    "1 fase": {
+                        "target_percent": 10.0,
+                        "daily_dd_percent": 3.0,
+                        "max_dd_percent": 6.0,
+                        "costo_medio_prop": 320.0,
+                        "multiplier": 0.19
+                    },
+                    "funded": {
+                        "target_percent": "",
+                        "daily_dd_percent": 3.0,
+                        "max_dd_percent": 6.0,
+                        "costo_medio_prop": 320.0,
+                        "multiplier": 0.55
+                    }
+                },
+                "100k": {
+                    "1 fase": {
+                        "target_percent": 10.0,
+                        "daily_dd_percent": 3.0,
+                        "max_dd_percent": 6.0,
+                        "costo_medio_prop": 550.0,
+                        "multiplier": 0.19
+                    },
+                    "funded": {
+                        "target_percent": "",
+                        "daily_dd_percent": 3.0,
+                        "max_dd_percent": 6.0,
+                        "costo_medio_prop": 550.0,
+                        "multiplier": 0.5
+                    }
+                }
+            },
+            "bifase": {
+                "5k": {
+                    "1 fase": {
+                        "target_percent": 10.0,
+                        "daily_dd_percent": 5.0,
+                        "max_dd_percent": 10.0,
+                        "costo_medio_prop": 34.0,
+                        "multiplier": 0.22
+                    },
+                    "2 fase": {
+                        "target_percent": 10.0,
+                        "daily_dd_percent": 5.0,
+                        "max_dd_percent": 10.0,
+                        "costo_medio_prop": 34.0,
+                        "multiplier": 0.32
+                    },
+                    "funded": {
+                        "target_percent": "",
+                        "daily_dd_percent": 5.0,
+                        "max_dd_percent": 10.0,
+                        "costo_medio_prop": 34.0,
+                        "multiplier": 0.5
+                    }
+                },
+                "10k": {
+                    "1 fase": {
+                        "target_percent": 10.0,
+                        "daily_dd_percent": 5.0,
+                        "max_dd_percent": 10.0,
+                        "costo_medio_prop": 63.0,
+                        "multiplier": 0.22
+                    },
+                    "2 fase": {
+                        "target_percent": 5.0,
+                        "daily_dd_percent": 5.0,
+                        "max_dd_percent": 10.0,
+                        "costo_medio_prop": 63.0,
+                        "multiplier": 0.32
+                    },
+                    "funded": {
+                        "target_percent": "",
+                        "daily_dd_percent": 5.0,
+                        "max_dd_percent": 10.0,
+                        "costo_medio_prop": 63.0,
+                        "multiplier": 0.5
+                    }
+                }
+            }
+        },
+        "Fintokei": {
+            "bifase": {
+                "50k": {
+                    "1 fase": {
+                        "target_percent": 8.0,
+                        "daily_dd_percent": 5.0,
+                        "max_dd_percent": 10.0,
+                        "costo_medio_prop": 290.0,
+                        "multiplier": 0.15
+                    },
+                    "2 fase": {
+                        "target_percent": 6.0,
+                        "daily_dd_percent": 5.0,
+                        "max_dd_percent": 10.0,
+                        "costo_medio_prop": 290.0,
+                        "multiplier": 0.3
+                    },
+                    "funded": {
+                        "target_percent": "",
+                        "daily_dd_percent": 5.0,
+                        "max_dd_percent": 10.0,
+                        "costo_medio_prop": 290.0,
+                        "multiplier": 0.45
+                    }
+                },
+                "100k": {
+                    "1 fase": {
+                        "target_percent": "",
+                        "daily_dd_percent": "",
+                        "max_dd_percent": "",
+                        "costo_medio_prop": "",
+                        "multiplier": 1.0
+                    },
+                    "2 fase": {
+                        "target_percent": "",
+                        "daily_dd_percent": "",
+                        "max_dd_percent": "",
+                        "costo_medio_prop": "",
+                        "multiplier": 1.0
+                    },
+                    "funded": {
+                        "target_percent": "",
+                        "daily_dd_percent": "",
+                        "max_dd_percent": "",
+                        "costo_medio_prop": "",
+                        "multiplier": 1.0
+                    }
+                },
+                "200k": {
+                    "1 fase": {
+                        "target_percent": "",
+                        "daily_dd_percent": "",
+                        "max_dd_percent": "",
+                        "costo_medio_prop": "",
+                        "multiplier": 1.0
+                    },
+                    "2 fase": {
+                        "target_percent": "",
+                        "daily_dd_percent": "",
+                        "max_dd_percent": "",
+                        "costo_medio_prop": "",
+                        "multiplier": 1.0
+                    },
+                    "funded": {
+                        "target_percent": "",
+                        "daily_dd_percent": "",
+                        "max_dd_percent": "",
+                        "costo_medio_prop": "",
+                        "multiplier": 1.0
+                    }
+                }
+            }
+        },
+        "gay": {
+            "gay": {
+                "dsa": {
+                    "dsadsa": {
+                        "target_percent": "",
+                        "daily_dd_percent": "",
+                        "max_dd_percent": "",
+                        "costo_medio_prop": "",
+                        "multiplier": 1.0
+                    }
+                }
+            }
+        }
+    }
 }
