@@ -1,6 +1,6 @@
 {
     "product": "ILMATEMATICO",
-    "generated_at": "2026-06-22 19:15:42",
+    "generated_at": "2026-06-22 20:01:29",
     "presets": [
         {
             "prop": "funding pips",
@@ -165,19 +165,6 @@
                         "multiplier": 1.0
                     },
                     "funded": {
-                        "target_percent": "",
-                        "daily_dd_percent": "",
-                        "max_dd_percent": "",
-                        "costo_medio_prop": "",
-                        "multiplier": 1.0
-                    }
-                }
-            }
-        },
-        "gay": {
-            "gay": {
-                "dsa": {
-                    "dsadsa": {
                         "target_percent": "",
                         "daily_dd_percent": "",
                         "max_dd_percent": "",
