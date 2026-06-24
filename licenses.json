@@ -1,6 +1,6 @@
 {
     "product": "ILMATEMATICO",
-    "generated_at": "2026-06-24 16:59:08",
+    "generated_at": "2026-06-24 17:00:34",
     "licenses": [
         {
             "customer": "MIA",
@@ -55,8 +55,17 @@
             "expiry": "Permanente",
             "status": "Attiva",
             "notes": ""
+        },
+        {
+            "customer": "marta tavolo - simone",
+            "hwid": "B320BD95E7C297C4",
+            "license_key": "ILM-D01B-460B-400E-4E6C",
+            "plan": "FPG Edition",
+            "expiry": "Permanente",
+            "status": "Attiva",
+            "notes": ""
         }
     ],
-    "signature": "2a4ded454e5878a83611bfdf17931705908b1c932e67249c27514b612936991b",
-    "signature_legacy": "a844b951cea81c2b8a9aafdab7440e29f257d01071ef9f698cb212d83cec04f8"
+    "signature": "edccbfa1213ea476dd3a61ecfe1c1cece9cea0f767267cb96f38eb89bb21bd32",
+    "signature_legacy": "6a3cd4b59cb1464bd52147923b5214dd9dfe93c7b019a2cdf12f986086af33c7"
 }
