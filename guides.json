@@ -1,6 +1,6 @@
 {
     "product": "ILMATEMATICO",
-    "generated_at": "2026-06-26 17:57:49",
+    "generated_at": "2026-06-26 17:58:45",
     "guides": [
         {
             "titolo": "5%ers",
@@ -28,6 +28,15 @@
             "file": "FINTOKEI.pdf",
             "local_path": "E:\\download\\IlMatematico_v14.0.1_FIX_TOKEN_GITHUB_GUIDE_TUTORIAL\\ADMIN_LICENSE_MANAGER\\Data\\Guides\\FINTOKEI.pdf",
             "url": "https://raw.githubusercontent.com/Lucaq-96/ilmatematico-licenses/main/guides/FINTOKEI.pdf"
+        },
+        {
+            "titolo": "FTMO",
+            "categoria": "settaggi operativi",
+            "descrizione": "settaggi operativi",
+            "versione": "1.0",
+            "file": "FTMO.pdf",
+            "local_path": "E:\\download\\IlMatematico_v14.0.1_FIX_TOKEN_GITHUB_GUIDE_TUTORIAL\\ADMIN_LICENSE_MANAGER\\Data\\Guides\\FTMO.pdf",
+            "url": "https://raw.githubusercontent.com/Lucaq-96/ilmatematico-licenses/main/guides/FTMO.pdf"
         }
     ]
 }
