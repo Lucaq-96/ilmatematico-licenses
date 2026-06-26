@@ -1,6 +1,6 @@
 {
     "product": "ILMATEMATICO",
-    "generated_at": "2026-06-26 17:58:45",
+    "generated_at": "2026-06-26 17:59:39",
     "guides": [
         {
             "titolo": "5%ers",
@@ -37,6 +37,15 @@
             "file": "FTMO.pdf",
             "local_path": "E:\\download\\IlMatematico_v14.0.1_FIX_TOKEN_GITHUB_GUIDE_TUTORIAL\\ADMIN_LICENSE_MANAGER\\Data\\Guides\\FTMO.pdf",
             "url": "https://raw.githubusercontent.com/Lucaq-96/ilmatematico-licenses/main/guides/FTMO.pdf"
+        },
+        {
+            "titolo": "funding pips",
+            "categoria": "settaggi operativi",
+            "descrizione": "settaggi operativi",
+            "versione": "1.0",
+            "file": "FUNDING_PIPS.pdf",
+            "local_path": "E:\\download\\IlMatematico_v14.0.1_FIX_TOKEN_GITHUB_GUIDE_TUTORIAL\\ADMIN_LICENSE_MANAGER\\Data\\Guides\\FUNDING_PIPS.pdf",
+            "url": "https://raw.githubusercontent.com/Lucaq-96/ilmatematico-licenses/main/guides/FUNDING_PIPS.pdf"
         }
     ]
 }
