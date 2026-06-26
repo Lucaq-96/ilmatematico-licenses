@@ -1,15 +1,33 @@
 {
     "product": "ILMATEMATICO",
-    "generated_at": "2026-06-26 17:53:22",
+    "generated_at": "2026-06-26 17:55:23",
     "guides": [
         {
             "titolo": "5%ers",
-            "categoria": "a",
-            "descrizione": "a",
+            "categoria": "settaggi operativi",
+            "descrizione": "settaggi operativi",
             "versione": "1.0",
             "file": "5_ers.pdf",
             "local_path": "E:\\download\\IlMatematico_v14.0.1_FIX_TOKEN_GITHUB_GUIDE_TUTORIAL\\ADMIN_LICENSE_MANAGER\\Data\\Guides\\5_ers.pdf",
             "url": "https://raw.githubusercontent.com/Lucaq-96/ilmatematico-licenses/main/guides/5_ers.pdf"
+        },
+        {
+            "titolo": "funding pips",
+            "categoria": "settaggi operativi",
+            "descrizione": "settaggi operativi",
+            "versione": "1.0",
+            "file": "funding_pips.pdf",
+            "local_path": "E:\\download\\IlMatematico_v14.0.1_FIX_TOKEN_GITHUB_GUIDE_TUTORIAL\\ADMIN_LICENSE_MANAGER\\Data\\Guides\\funding_pips.pdf",
+            "url": "https://raw.githubusercontent.com/Lucaq-96/ilmatematico-licenses/main/guides/funding_pips.pdf"
+        },
+        {
+            "titolo": "fintokei",
+            "categoria": "settaggi operativi",
+            "descrizione": "settaggi operativi",
+            "versione": "1.0",
+            "file": "FINTOKEI.pdf",
+            "local_path": "E:\\download\\IlMatematico_v14.0.1_FIX_TOKEN_GITHUB_GUIDE_TUTORIAL\\ADMIN_LICENSE_MANAGER\\Data\\Guides\\FINTOKEI.pdf",
+            "url": "https://raw.githubusercontent.com/Lucaq-96/ilmatematico-licenses/main/guides/FINTOKEI.pdf"
         }
     ]
 }
