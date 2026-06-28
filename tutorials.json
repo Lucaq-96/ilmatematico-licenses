@@ -1,5 +1,13 @@
 {
     "product": "ILMATEMATICO",
-    "generated_at": "2026-06-26 18:07:36",
-    "tutorials": []
+    "generated_at": "2026-06-28 14:15:23",
+    "tutorials": [
+        {
+            "titolo": "aaaaa",
+            "categoria": "aaaa",
+            "descrizione": "aaaa",
+            "versione": "1.0",
+            "url": "https://youtu.be/FtskyrQKpJ0"
+        }
+    ]
 }
