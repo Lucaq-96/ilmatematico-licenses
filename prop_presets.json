@@ -1,6 +1,6 @@
 {
     "product": "ILMATEMATICO",
-    "generated_at": "2026-06-28 13:48:04",
+    "generated_at": "2026-06-28 13:48:43",
     "presets": [
         {
             "prop": "funding pips",
@@ -175,7 +175,17 @@
             }
         },
         "The5%Ers": {
-            "bifase": {}
+            "bifase": {
+                "50k": {
+                    "1 fase": {
+                        "target_percent": 5000.0,
+                        "daily_dd_percent": 2500.0,
+                        "max_dd_percent": 5000.0,
+                        "costo_medio_prop": 278.0,
+                        "multiplier": 0.13
+                    }
+                }
+            }
         }
     }
 }
