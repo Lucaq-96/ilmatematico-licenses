@@ -1,6 +1,6 @@
 {
     "product": "ILMATEMATICO",
-    "generated_at": "2026-06-28 13:39:00",
+    "generated_at": "2026-06-28 14:14:48",
     "guides": [
         {
             "titolo": "5%ers",
@@ -64,6 +64,15 @@
             "file": "1.pdf",
             "local_path": "E:\\download\\ADMIN_LICENSE_MANAGER\\Data\\Guides\\1.pdf",
             "url": "https://raw.githubusercontent.com/Lucaq-96/ilmatematico-licenses/main/guides/1.pdf"
+        },
+        {
+            "titolo": "222",
+            "categoria": "222",
+            "descrizione": "222",
+            "versione": "1.0",
+            "file": "222.pdf",
+            "local_path": "E:\\download\\ADMIN_LICENSE_MANAGER\\Data\\Guides\\222.pdf",
+            "url": "https://raw.githubusercontent.com/Lucaq-96/ilmatematico-licenses/main/guides/222.pdf"
         }
     ]
 }
