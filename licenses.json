@@ -1,6 +1,6 @@
 {
     "product": "ILMATEMATICO",
-    "generated_at": "2026-06-29 18:11:42",
+    "generated_at": "2026-06-29 18:46:48",
     "licenses": [
         {
             "customer": "MIA",
@@ -136,8 +136,17 @@
             "expiry": "Permanente",
             "status": "Attiva",
             "notes": ""
+        },
+        {
+            "customer": "sergio",
+            "hwid": "5ACC416A11A0BD08",
+            "license_key": "ILM-9DB2-628A-258A-4160",
+            "plan": "FPG Edition",
+            "expiry": "Permanente",
+            "status": "Attiva",
+            "notes": ""
         }
     ],
-    "signature": "a986cf48adeead992459bf762dfa1a3f1a4de1fe7b61eb7c31b214eceeb385a9",
-    "signature_legacy": "dd1449e811de677c057db893c608c14c1a3086357b5d1e9ccbfd6c704f512773"
+    "signature": "594142d4ffdce3ccd9b2475b41f00eba44552728033426e95f752b6bfaa3b6de",
+    "signature_legacy": "ebeee688129bddafb39127b2ef5c6086be248f6081fe9b9cacdbc607978aafdb"
 }
