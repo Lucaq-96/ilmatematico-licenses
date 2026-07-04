@@ -1,6 +1,6 @@
 {
     "product": "ILMATEMATICO",
-    "generated_at": "2026-07-02 20:00:48",
+    "generated_at": "2026-07-04 02:49:08",
     "licenses": [
         {
             "customer": "MIA",
@@ -89,7 +89,7 @@
             "license_key": "ILM-4B79-A9F3-85CF-4256",
             "plan": "FPG Edition",
             "expiry": "Permanente",
-            "status": "Attiva",
+            "status": "Disattivata",
             "notes": ""
         },
         {
@@ -183,6 +183,6 @@
             "notes": ""
         }
     ],
-    "signature": "d37117c129cd39e442c8e4c2eec2c3ce6f936b593f58cad22f4cd3b9b9266abf",
-    "signature_legacy": "443a94bc9ab9f58072c9cfec1fb0700471aa76363401c0fe16237f8535cfe414"
+    "signature": "a14d0834e665b920d6bd1ee020a40a7be1887330e397ab1de7854e900ad478f2",
+    "signature_legacy": "57c2098d3a868e6b7f284d3360d9548c780b662f5613b608b51e816fbcc2bdda"
 }
