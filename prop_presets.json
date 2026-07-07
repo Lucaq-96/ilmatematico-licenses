@@ -1,6 +1,6 @@
 {
     "product": "ILMATEMATICO",
-    "generated_at": "2026-07-07 23:10:31",
+    "generated_at": "2026-07-07 23:10:58",
     "presets": [
         {
             "prop": "funding pips",
@@ -349,6 +349,15 @@
                         "max_dd_percent": "",
                         "costo_medio_prop": "",
                         "multiplier": 0.56
+                    }
+                },
+                "100k": {
+                    "1 fase": {
+                        "target_percent": "",
+                        "daily_dd_percent": "",
+                        "max_dd_percent": "",
+                        "costo_medio_prop": "",
+                        "multiplier": 0.23
                     }
                 }
             }
