@@ -1,6 +1,6 @@
 {
     "product": "ILMATEMATICO",
-    "generated_at": "2026-06-28 16:07:23",
+    "generated_at": "2026-07-07 22:57:18",
     "guides": [
         {
             "titolo": "5%ers",
@@ -55,6 +55,15 @@
             "file": "instant_funding.pdf",
             "local_path": "E:\\download\\IlMatematico_v14.0.1_FIX_TOKEN_GITHUB_GUIDE_TUTORIAL\\ADMIN_LICENSE_MANAGER\\Data\\Guides\\instant_funding.pdf",
             "url": "https://raw.githubusercontent.com/Lucaq-96/ilmatematico-licenses/main/guides/instant_funding.pdf"
+        },
+        {
+            "titolo": "Funded next",
+            "categoria": "",
+            "descrizione": "",
+            "versione": "1.0",
+            "file": "FUNDED_NEXT.pdf",
+            "local_path": "E:\\IlMatematico_v14.1.3\\ADMIN_LICENSE_MANAGER\\Data\\Guides\\FUNDED_NEXT.pdf",
+            "url": "https://raw.githubusercontent.com/Lucaq-96/ilmatematico-licenses/main/guides/FUNDED_NEXT.pdf"
         }
     ]
 }
