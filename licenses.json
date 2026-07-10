@@ -1,6 +1,6 @@
 {
     "product": "ILMATEMATICO",
-    "generated_at": "2026-07-10 14:31:42",
+    "generated_at": "2026-07-10 19:58:38",
     "licenses": [
         {
             "customer": "MIA",
@@ -19,6 +19,15 @@
             "expiry": "Permanente",
             "status": "Attiva",
             "notes": "gestione"
+        },
+        {
+            "customer": "simone polizzi",
+            "hwid": "1EDA75062F3F611A",
+            "license_key": "ILM-DC09-7404-4EBF-432E",
+            "plan": "FPG Edition",
+            "expiry": "Permanente",
+            "status": "Attiva",
+            "notes": ""
         },
         {
             "customer": "lorenzo mantovani",
@@ -219,15 +228,6 @@
             "notes": ""
         },
         {
-            "customer": "fernando paradisi",
-            "hwid": "DB0CB28BB748D5D3",
-            "license_key": "ILM-F6F8-7574-1F7C-4070",
-            "plan": "FPG Edition",
-            "expiry": "Permanente",
-            "status": "Attiva",
-            "notes": ""
-        },
-        {
             "customer": "simone pilizzi 2",
             "hwid": "7338024BB55D3B37",
             "license_key": "ILM-BDC6-C723-8A51-4E59",
@@ -237,6 +237,6 @@
             "notes": ""
         }
     ],
-    "signature": "607a6e93df69d9d8e0155defc6b1310838dec40e2b68d164a5272d59c4169285",
-    "signature_legacy": "b9be695409b51a8dd4cc09b1b7376afa754b7c79e8662026f54516f983d4f080"
+    "signature": "e51395a4f68bcf30d74bc80b716986fdc871a82879747d177192a5867cdc86ec",
+    "signature_legacy": "2aa3cbb070901e8f2f3b64c98983e7862e900ba3a604396d51f092fdc8762b7c"
 }
