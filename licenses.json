@@ -1,6 +1,6 @@
 {
     "product": "ILMATEMATICO",
-    "generated_at": "2026-07-12 17:59:11",
+    "generated_at": "2026-07-12 18:00:08",
     "licenses": [
         {
             "customer": "MIA",
@@ -235,8 +235,17 @@
             "expiry": "Permanente",
             "status": "Attiva",
             "notes": ""
+        },
+        {
+            "customer": "mio maaacbook",
+            "hwid": "6CD3455F2580860B",
+            "license_key": "ILM-169A-0517-05D8-4563",
+            "plan": "All Brokers",
+            "expiry": "Permanente",
+            "status": "Attiva",
+            "notes": ""
         }
     ],
-    "signature": "67b0ee16e5733204d7ae7bd05d4baf8a6d9600b1c19f2369e16f4325e1fcaceb",
-    "signature_legacy": "aff2a777d0fa1f5a9a76355e4dec0362d8905b8edb86129df7a8db129f77d6d8"
+    "signature": "321bee7aadb55755a612808b0e04383bcccf1c664274fdc549b6a022b136bf2b",
+    "signature_legacy": "5b5920e97bce146c59532788642a6f113369f47af1017418f88722454f2e24a9"
 }
