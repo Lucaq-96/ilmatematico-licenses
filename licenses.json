@@ -1,6 +1,6 @@
 {
     "product": "ILMATEMATICO",
-    "generated_at": "2026-07-27 15:05:37",
+    "generated_at": "2026-07-27 15:05:51",
     "licenses": [
         {
             "customer": "MIA",
@@ -343,8 +343,17 @@
             "expiry": "Permanente",
             "status": "Attiva",
             "notes": ""
+        },
+        {
+            "customer": "FERNANDO PARADISII",
+            "hwid": "3CD1F6138E113D06",
+            "license_key": "ILM-0CBB-4F43-4CED-43E2",
+            "plan": "All Brokers",
+            "expiry": "Permanente",
+            "status": "Attiva",
+            "notes": ""
         }
     ],
-    "signature": "6fa9ee3c4f8b2844b38af425b8de2205f1baae8a4f61817a20812c973ef60667",
-    "signature_legacy": "665bebf70fb0d544829868b5c97d0c5cf0aba52495237207d2db221585a3f7e8"
+    "signature": "a465ea4fb5a87d52e829b99a5de4b0f3133b10e78587dfacb9ef124c8f053cac",
+    "signature_legacy": "08879bd04eb52101f6b19917ac75292930a5834cc5b937d40f92a398524f96ba"
 }
