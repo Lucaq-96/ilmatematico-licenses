@@ -1,6 +1,6 @@
 {
     "product": "ILMATEMATICO",
-    "generated_at": "2026-07-27 11:10:41",
+    "generated_at": "2026-07-27 15:05:37",
     "licenses": [
         {
             "customer": "MIA",
@@ -255,15 +255,6 @@
             "notes": ""
         },
         {
-            "customer": "fernando paradiisi",
-            "hwid": "E568CEFBDE13E733",
-            "license_key": "ILM-6A2B-89B5-605F-4C62",
-            "plan": "FPG Edition",
-            "expiry": "Permanente",
-            "status": "Attiva",
-            "notes": ""
-        },
-        {
             "customer": "mio maaacbook",
             "hwid": "6CD3455F2580860B",
             "license_key": "ILM-169A-0517-05D8-4563",
@@ -354,6 +345,6 @@
             "notes": ""
         }
     ],
-    "signature": "20fb07dcf07465fdc43d63aba7060fc13a861ed4255789ac7adafe75081df529",
-    "signature_legacy": "2ae7869a9aab353a5ee9a7e489fb140005e3c6c5dd8eae7814109b1bb6d40b4c"
+    "signature": "6fa9ee3c4f8b2844b38af425b8de2205f1baae8a4f61817a20812c973ef60667",
+    "signature_legacy": "665bebf70fb0d544829868b5c97d0c5cf0aba52495237207d2db221585a3f7e8"
 }
