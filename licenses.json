@@ -1,6 +1,6 @@
 {
     "product": "ILMATEMATICO",
-    "generated_at": "2026-09-04 08:01:47",
+    "generated_at": "2026-09-07 08:32:06",
     "licenses": [
         {
             "customer": "MIA",
@@ -415,8 +415,17 @@
             "expiry": "Permanente",
             "status": "Attiva",
             "notes": ""
+        },
+        {
+            "customer": "robertoo 2",
+            "hwid": "B87D3D66857C33D7",
+            "license_key": "ILM-D491-AB4E-309D-42BE",
+            "plan": "All Brokers",
+            "expiry": "Permanente",
+            "status": "Attiva",
+            "notes": ""
         }
     ],
-    "signature": "2956ba453d520533abed64e4a2d7783d9a86bfe892304ce93d5ea53a18d3c5b2",
-    "signature_legacy": "9dc3b0c909e801087d5d96dd8b19f8012764d4485a64754a5a98fac247358b07"
+    "signature": "4008574887ef5f3626b719b1b040e5e0f916f2862466b33e9255aa11644b4848",
+    "signature_legacy": "0457629631643c8173e38b213968eae6d933dfa90f55ea8fd3df1de3bc7652a5"
 }
