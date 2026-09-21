@@ -1,6 +1,6 @@
 {
     "product": "ILMATEMATICO",
-    "generated_at": "2026-09-07 08:32:06",
+    "generated_at": "2026-09-21 14:21:50",
     "licenses": [
         {
             "customer": "MIA",
@@ -19,15 +19,6 @@
             "expiry": "Permanente",
             "status": "Attiva",
             "notes": "gestione"
-        },
-        {
-            "customer": "simone polizzi",
-            "hwid": "1EDA75062F3F611A",
-            "license_key": "ILM-DC09-7404-4EBF-432E",
-            "plan": "FPG Edition",
-            "expiry": "Permanente",
-            "status": "Attiva",
-            "notes": ""
         },
         {
             "customer": "lorenzo mantovani",
@@ -66,10 +57,10 @@
             "notes": ""
         },
         {
-            "customer": "mattia zancanaro",
-            "hwid": "F3990357878DBAE2",
-            "license_key": "ILM-8AC2-082E-BB04-425E",
-            "plan": "FPG Edition",
+            "customer": "mattia zancanaro 2",
+            "hwid": "FC8DEF914000D4FF",
+            "license_key": "ILM-251F-69CA-F56C-429A",
+            "plan": "All Brokers",
             "expiry": "Permanente",
             "status": "Attiva",
             "notes": ""
@@ -138,6 +129,15 @@
             "notes": ""
         },
         {
+            "customer": "MIO MAC",
+            "hwid": "55E65C62AFA2E1DB",
+            "license_key": "ILM-E11D-D596-8985-4FC6",
+            "plan": "All Brokers",
+            "expiry": "Permanente",
+            "status": "Attiva",
+            "notes": ""
+        },
+        {
             "customer": "francesco bellomo",
             "hwid": "C776D57777D33403",
             "license_key": "ILM-8497-5606-9A2F-4E87",
@@ -157,9 +157,9 @@
         },
         {
             "customer": "robertino cau",
-            "hwid": "C26B6BC6449816A8",
-            "license_key": "ILM-5E0A-CB53-3A93-4BE1",
-            "plan": "All Brokers",
+            "hwid": "2B14FCA51DF55277",
+            "license_key": "ILM-661D-C87E-6C15-4502",
+            "plan": "FPG Edition",
             "expiry": "Permanente",
             "status": "Attiva",
             "notes": ""
@@ -219,6 +219,15 @@
             "notes": ""
         },
         {
+            "customer": "fernando paradisi",
+            "hwid": "DB0CB28BB748D5D3",
+            "license_key": "ILM-F6F8-7574-1F7C-4070",
+            "plan": "FPG Edition",
+            "expiry": "Permanente",
+            "status": "Attiva",
+            "notes": ""
+        },
+        {
             "customer": "simone pilizzi 2",
             "hwid": "7338024BB55D3B37",
             "license_key": "ILM-BDC6-C723-8A51-4E59",
@@ -228,10 +237,19 @@
             "notes": ""
         },
         {
-            "customer": "fernando paradiisi",
-            "hwid": "E568CEFBDE13E733",
-            "license_key": "ILM-6A2B-89B5-605F-4C62",
+            "customer": "simone polizzi",
+            "hwid": "1EDA75062F3F611A",
+            "license_key": "ILM-DC09-7404-4EBF-432E",
             "plan": "FPG Edition",
+            "expiry": "Permanente",
+            "status": "Attiva",
+            "notes": ""
+        },
+        {
+            "customer": "robertino cau",
+            "hwid": "C26B6BC6449816A8",
+            "license_key": "ILM-5E0A-CB53-3A93-4BE1",
+            "plan": "All Brokers",
             "expiry": "Permanente",
             "status": "Attiva",
             "notes": ""
@@ -318,33 +336,6 @@
             "notes": ""
         },
         {
-            "customer": "MIO MAC",
-            "hwid": "55E65C62AFA2E1DB",
-            "license_key": "ILM-E11D-D596-8985-4FC6",
-            "plan": "All Brokers",
-            "expiry": "Permanente",
-            "status": "Attiva",
-            "notes": ""
-        },
-        {
-            "customer": "robertino cau",
-            "hwid": "2B14FCA51DF55277",
-            "license_key": "ILM-661D-C87E-6C15-4502",
-            "plan": "FPG Edition",
-            "expiry": "Permanente",
-            "status": "Attiva",
-            "notes": ""
-        },
-        {
-            "customer": "fernando paradisi",
-            "hwid": "DB0CB28BB748D5D3",
-            "license_key": "ILM-F6F8-7574-1F7C-4070",
-            "plan": "FPG Edition",
-            "expiry": "Permanente",
-            "status": "Attiva",
-            "notes": ""
-        },
-        {
             "customer": "marta simone a",
             "hwid": "326E1187EFCADAF2",
             "license_key": "ILM-1E0C-59A7-D2CE-4192",
@@ -372,19 +363,19 @@
             "notes": ""
         },
         {
-            "customer": "luca fadda",
-            "hwid": "7306CF614FF38114",
-            "license_key": "ILM-841F-AAB0-CF13-4E6A",
+            "customer": "fernando paradiisi",
+            "hwid": "E568CEFBDE13E733",
+            "license_key": "ILM-6A2B-89B5-605F-4C62",
             "plan": "FPG Edition",
             "expiry": "Permanente",
             "status": "Attiva",
             "notes": ""
         },
         {
-            "customer": "mattia zancanaro 2",
-            "hwid": "FC8DEF914000D4FF",
-            "license_key": "ILM-251F-69CA-F56C-429A",
-            "plan": "All Brokers",
+            "customer": "luca fadda",
+            "hwid": "7306CF614FF38114",
+            "license_key": "ILM-841F-AAB0-CF13-4E6A",
+            "plan": "FPG Edition",
             "expiry": "Permanente",
             "status": "Attiva",
             "notes": ""
@@ -408,6 +399,15 @@
             "notes": ""
         },
         {
+            "customer": "mattia zancanaro",
+            "hwid": "F3990357878DBAE2",
+            "license_key": "ILM-8AC2-082E-BB04-425E",
+            "plan": "FPG Edition",
+            "expiry": "Permanente",
+            "status": "Attiva",
+            "notes": ""
+        },
+        {
             "customer": "AGR 2",
             "hwid": "D2CD24720844883A",
             "license_key": "ILM-1109-C47D-2CED-47C0",
@@ -424,8 +424,17 @@
             "expiry": "Permanente",
             "status": "Attiva",
             "notes": ""
+        },
+        {
+            "customer": "zucchi gay capo ebrei",
+            "hwid": "622BC1BCEAD1E7E4",
+            "license_key": "ILM-9C7B-703A-7FA6-4D11",
+            "plan": "All Brokers",
+            "expiry": "Permanente",
+            "status": "Attiva",
+            "notes": ""
         }
     ],
-    "signature": "4008574887ef5f3626b719b1b040e5e0f916f2862466b33e9255aa11644b4848",
-    "signature_legacy": "0457629631643c8173e38b213968eae6d933dfa90f55ea8fd3df1de3bc7652a5"
+    "signature": "b5b20a7751ed19515dbeaaff4b7455f92575bb47b768335448d6316dd57c7674",
+    "signature_legacy": "95c3ab43d03854b49741102ac12a9606195be817de8b3c3922183dd4f0169aa5"
 }
