@@ -1,6 +1,6 @@
 {
     "product": "ILMATEMATICO",
-    "generated_at": "2026-09-21 14:21:50",
+    "generated_at": "2026-10-07 17:30:19",
     "licenses": [
         {
             "customer": "MIA",
@@ -433,8 +433,17 @@
             "expiry": "Permanente",
             "status": "Attiva",
             "notes": ""
+        },
+        {
+            "customer": "denni gay capo ebrei",
+            "hwid": "0A2FC86D0EC2F53F",
+            "license_key": "ILM-ABD6-B2BD-3097-472C",
+            "plan": "All Brokers",
+            "expiry": "Permanente",
+            "status": "Attiva",
+            "notes": ""
         }
     ],
-    "signature": "b5b20a7751ed19515dbeaaff4b7455f92575bb47b768335448d6316dd57c7674",
-    "signature_legacy": "95c3ab43d03854b49741102ac12a9606195be817de8b3c3922183dd4f0169aa5"
+    "signature": "1dfc2ccd52b2496d10fac0e639512bb9f5cefe3c46c88dbba6d9aca74a3b2e9e",
+    "signature_legacy": "4b8811c8233d4dc2d4186c20a0de0ba9d1021d9a6bf4d7f83ef1391626f30289"
 }
